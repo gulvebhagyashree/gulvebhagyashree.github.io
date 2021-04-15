@@ -1,0 +1,41 @@
+#baggage{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 2rem;
+}
+#baggageDetail{
+   border-color: black;
+
+}
+#card2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#card1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#card3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+button{
+    border-radius: 30%;
+    width:200px;
+    height:200px;
+}
+/*#special{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}*/
+#navbutton{
+    border-radius: 0%;
+    width: 300px;
+    height: 40px;
+}
